@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App h1 {
+  color: red;
+}
+.App h2 {
+  color: blue;
+}
+.App img {
+  width: 50vh;
+  height: 70vh;
+}
